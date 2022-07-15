@@ -11,6 +11,15 @@ def readFile(fileName):
         lines[i] = lines[i].rstrip()
     return lines
 
+##########################################################
+# Sean - code in part1 and part2 and any functions extra
+##########################################################
+
+"""
+Howdy
+"""
+
+
 def part1(lines):
     # Code the solution to part 1 here, returning the answer as a string
     return("Part 1 answer.")
